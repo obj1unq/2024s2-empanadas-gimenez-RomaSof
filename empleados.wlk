@@ -1,5 +1,3 @@
-//Escribir aqui los objetos
-//Escribir aqui los objetos
 object galvan {
   var sueldo = 15000
   var saldo = 0
